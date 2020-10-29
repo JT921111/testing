@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <link rel="icon" href="https://github.com/JT921111/testing/blob/main/icon-flower.jpg?raw=true" size="32x32"/>
+        <link rel="icon" href="https://github.com/JT921111/testing/blob/main/icon-flower.jpg" size="32x32"/>
         <title>Hello</title>
     </head>
     <body>
